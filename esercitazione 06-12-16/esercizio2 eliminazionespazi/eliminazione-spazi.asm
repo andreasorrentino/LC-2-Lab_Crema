@@ -77,6 +77,6 @@ svr4	.blkw 1
 svr5	.blkw 1
 ct	.fill 32
 frase1	.blkw 150
-frase	.stringz " un esempio di parole con spazi dsadasdasdasdas     dasdasdsadas  sdasdsdsa          asdasdasdasdsa     "
+frase	.stringz " un esempio di parole con spazi    "
 
 .end
